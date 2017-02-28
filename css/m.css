@@ -1,0 +1,19 @@
+body,html{height:100%;padding:0px;margin:0px; background-color: lightblue;}
+main{background:none repeat scroll 0 0 wheat; border: 1px solid; box-shadow: 1px 1px 6px #000000; 
+	margin: 0 auto; padding: 0 41px 41px; width: auto; height: auto;}
+div{background-color: teal; font-family: Verdana, Geneva, sans-serif; font-size: 0.7em; color: yellow; display:block; 
+	width:auto; height:auto; margin: 10px 5px; padding: 5px 10px; 
+	border: 2px solid lightgreen; border-radius: 10px; box-shadow: 2px 2px 5px #000000;}
+img{display: block; margin: 0 auto; width: 50%;}
+h3, #homeDiv{text-align: center;}
+ul{list-style-type:none; margin: 0px 30px;padding:0px;overflow:hidden;}
+li a{color:yellow;text-align:center;padding:0px;font-family: verdana;font-size:1.5em;text-decoration:none}
+.active{color: white;}
+li a:hover:not(.active){background-color: teal; color: lightgreen;}
+li {float: left; display: block; text-align: center; margin: 0px 20px; padding: 10px;}
+#crono{position: fixed; width:auto; height:auto; margin: 1%; padding: 1%;}
+.start, .comp{display: block; text-align: center; margin: 0 auto;}
+footer{font-family: verdana; font-size: 0.7em; color: darkgreen; text-align: center; float: right; 
+	margin: 10px 50px; padding: 30px 20px;}
+#comprobacion{width:50%;margin:20px auto;}
+
